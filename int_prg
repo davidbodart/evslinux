@@ -1,0 +1,9 @@
+echo this is a program
+echo -----------------
+read -p "Enter your name: " name
+echo Your name is $name
+read -p "enter your age: " age
+echo Your age is $age
+
+
+
